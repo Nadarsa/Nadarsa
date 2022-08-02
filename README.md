@@ -8,7 +8,7 @@
 
 :open_file_folder: My technology stack: Python, NumPy, Pandas, EDA, ML, SQL
 
-📫 How to reach me: arsentyevanadya@gmail.com, nadya-arsenteva@mail.ru, +7(985)120-83-34
+📫 How to reach me: tg: @nadarsa, arsentyevanadya@gmail.com
 
 <!--
 **Nadarsa/Nadarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
