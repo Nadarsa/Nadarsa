@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello, my name is Nadezhda Oskina 👋
+
+:mortar_board: I am a graduate of the Faculty of Finance and Banking of The Russian Presidential Academy of National Economy and Public Administration (RANEPA), top-10 best universities in Russia
+
+:bar_chart: I have work experience as an economist
+
+:computer: I am currently studying Data Science at [SkillFactory](https://skillfactory.ru/data-science-specialization)
+
+:open_file_folder: My technology stack: Python, NumPy, Pandas, EDA, ML, SQL
+
+📫 How to reach me: arsentyevanadya@gmail.com, nadya-arsenteva@mail.ru, +7(985)120-83-34
 
 <!--
 **Nadarsa/Nadarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
