@@ -6,7 +6,7 @@
 
 :bar_chart: I have work experience as an economist
 
-:open_file_folder: My technology stack: Python, NumPy, Pandas, EDA, ML, SQL
+:open_file_folder: My technology stack: Python, NumPy, Pandas, EDA, ML, SQL, Mathematics
 
 📫 How to reach me: [telegram](https://t.me/nadarsa), arsentyevanadya@gmail.com
 
