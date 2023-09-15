@@ -6,7 +6,7 @@
 
 :bar_chart: I have work experience as an economist
 
-:open_file_folder: My technology stack: Python, NumPy, Pandas, EDA, ML, SQL, Mathematics, Power BI
+:open_file_folder: My technology stack: Python, Pandas, NumPy, EDA, ML, SQL, Mathematics, Visualisation, Power BI
 
 :books: I am into algorithms and solving problems on LeetCode
 
