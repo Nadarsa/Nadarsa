@@ -1,6 +1,6 @@
 ### Hello, my name is Nadezhda Oskina 👋
 
-:computer: I have successfully completed an online course «Data Science Specialization» at [SkillFactory](https://skillfactory.ru/data-science-specialization) with Diploma of professional retraining
+:computer: I have successfully completed an online course «Data Science Specialization» with Diploma of professional retraining
 
 :mortar_board: I am a graduate of the Faculty of Finance and Banking of The Russian Presidential Academy of National Economy and Public Administration (RANEPA), top-10 best universities in Russia
 
