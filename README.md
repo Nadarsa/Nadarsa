@@ -1,7 +1,5 @@
 ### Hello, my name is Nadezhda Oskina 👋
 
-:seedling: Currently learning ML-Engineering
-
 :computer: Successfully completed «Data Science Specialization» with Diploma of professional retraining
 
 :mortar_board: Graduate of the Faculty of Finance and Banking of The Russian Presidential Academy of National Economy and Public Administration (RANEPA), top-10 best universities in Russia
