@@ -14,6 +14,14 @@
 
 📫 How to reach me: [telegram](https://t.me/nadarsa), arsentyevanadya@gmail.com
 
+> 📜 *Sapere aude* — **Дерзай знать**  
+> <sub>Девиз Московского физико-технического института</sub>
+
+---
+
+Учебный репозиторий, собравший курсы, проекты и хакатоны в рамках магистратуры по **Data Science**
+
+
 <!--
 **Nadarsa/Nadarsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
