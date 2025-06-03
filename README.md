@@ -1,6 +1,6 @@
 ### Hello, my name is Nadezhda Oskina 👋
 
-:computer: MIPT student in Applied Mathematics and Computer Science
+:books: MIPT (Moscow Institute of Physics and Technology, Phystech) student in Applied Mathematics and Computer Science
 
 :computer: Successfully completed «Data Science Specialization» with Diploma of professional retraining
 
