@@ -1,10 +1,12 @@
 ### Hello, my name is Nadezhda Oskina 👋
 
+:computer: MIPT student in Applied Mathematics and Computer Science
+
 :computer: Successfully completed «Data Science Specialization» with Diploma of professional retraining
 
 :mortar_board: Graduate of the Faculty of Finance and Banking of The Russian Presidential Academy of National Economy and Public Administration (RANEPA), top-10 best universities in Russia
 
-:bar_chart: Have work experience as an Economist
+:bar_chart: Work as an Economist-analyst in the healthcare industry
 
 :open_file_folder: My technology stack: Python, Pandas, NumPy, EDA, ML, SQL, Mathematics, Visualisation, Power BI
 
