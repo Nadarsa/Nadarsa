@@ -4,7 +4,7 @@
 
 :computer: Successfully completed «Data Science Specialization» with Diploma of professional retraining
 
-:mortar_board: Graduate of the Faculty of Finance and Banking of The Russian Presidential Academy of National Economy and Public Administration (RANEPA), top-10 best universities in Russia
+:mortar_board: Graduate of the Faculty of Finance and Banking of The Presidential Academy (The Russian Presidential Academy of National Economy and Public Administration, RANEPA), top-10 best universities in Russia
 
 :bar_chart: Work as an economist-analyst in the healthcare industry
 
